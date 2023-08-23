@@ -4,7 +4,7 @@ export default function Footer() {
     <div className="flex flex-row">
       <footer className="footer footer-center p-4 bg-base-300 text-base-content">
         <div>
-          <p>Copyright © 2023 - All right reserved by <a href="https://gvdsolucoes.com.br/">GVD Soluções Inteligentes</a></p>
+          <p>Copyright © 2023 - All right reserved by <a href="">Amanda Carvalheiro Barbosa</a></p>
         </div>
       </footer>
     </div>    

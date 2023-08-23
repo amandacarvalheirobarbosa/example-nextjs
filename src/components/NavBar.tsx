@@ -3,8 +3,7 @@ import { signOut } from "next-auth/react";
 import Image from "next/image";
 import Link from "next/link";
 import ChangeTheme from "./ChangeTheme";
-import ModalPassword from "./ModalPassword";
-/* import ModalPassword from "./ModalPassword"; */
+import ModalPassword from "./password/ModalPassword";
 
 export default function NavBar() {
   return (
