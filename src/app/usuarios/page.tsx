@@ -1,6 +1,8 @@
 "use client"
+import ModalUser from "@/components/ModalUser";
 import NavBar from "@/components/NavBar";
-import ModalUser from "./components/ModalUser";
+
+
 declare const window: any;
 
 const Adicionar = () => {

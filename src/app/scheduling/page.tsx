@@ -1,5 +1,5 @@
 import NavBar from "@/components/NavBar";
-import Scheduling from "./components/Scheduling";
+import Scheduling from "@/components/Scheduling";
 
 export default function Login() {
   return (
