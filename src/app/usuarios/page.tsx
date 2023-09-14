@@ -38,8 +38,8 @@ export default function Usuarios() {
           <tr>
             <th>2</th>
             <td>Henrique</td>
-            <td><h1></h1>enrique@gmail.com</td>
-            <td>05/06/2003</td>
+            <td>henrique@gmail.com</td>
+            <td>05/07/2003</td>
             <th className="flex flex-row w-auto justify-end">
               <ButtonEdit modalName={window.modalUser}/>
               <ButtonDelete />
@@ -60,7 +60,7 @@ export default function Usuarios() {
           <tr>
             <th>4</th>
             <td>Douglas</td>
-            <td>fouglas@gmail.com</td>
+            <td>douglas@gmail.com</td>
             <td>03/03/1984</td>
             <th className="flex flex-row w-auto justify-end">
               <ButtonEdit modalName={window.modalUser}/>
